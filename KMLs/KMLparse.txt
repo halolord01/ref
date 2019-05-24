@@ -1,0 +1,9 @@
+KML reference
+https://developers.google.com/kml/documentation/kml_tut
+verbose KML reference
+https://developers.google.com/kml/documentation/kmlreference
+
+lat lon converter?
+https://pypi.python.org/pypi/LatLon/1.0.2
+
+
